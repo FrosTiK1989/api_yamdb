@@ -1,6 +1,6 @@
-id,username,email,role,bio,first_name,last_name
-100,bingobongo,bingobongo@yamdb.fake,user,,,
-101,capt_obvious,capt_obvious@yamdb.fake,admin,,,
-102,faust,faust@yamdb.fake,user,,,
-103,reviewer,reviewer@yamdb.fake,user,,,
-104,angry,angry@yamdb.fake,moderator,,,
+id,username,email,role,bio,first_name,last_name,password,is_staff,is_active,is_superuser,date_joined,confirmation_code,
+100,bingobongo,bingobongo@yamdb.fake,user,,,pbkdf2_sha256$150000$aTV1pMGjj9pg$VUiQDVKB+hb4neUwg6FwWXQxmO3cJAPCSCxTSKApwi0=,0,1,0,2022-04-20 21:36:47.366897,0,
+101,capt_obvious,capt_obvious@yamdb.fake,admin,,,pbkdf2_sha256$150000$aTV1pMGjj9pg$VUi,0,2022-04-20 21:36:47.366897,0,
+102,faust,faust@yamdb.fake,user,,,pbkdf2_sha256$150000$aTV1pMGjj9pg$VUiQDVKB+hb4neUwg6FwWXQxmO3cJAPCSCxTSKApwi0=,0,1,0,2022-04-20 21:36:47.366897,0,
+103,reviewer,reviewer@yamdb.fake,user,,,pbkdf2_sha256$150000$aTV1pMGjj9pg$VUiQDVKB+hb4neUwg6FwWXQxmO3cJAPCSCxTSKApwi0=,0,1,0,2022-04-20 21:36:47.366897,0,
+104,angry,angry@yamdb.fake,moderator,,,pbkdf2_sha256$150000$aTV1pMGjj9pg$VUiQDVKB+hb4neUwg6FwWXQxmO3cJAPCSCxTSKApwi0=,0,1,0,2022-04-20 21:36:47.366897,0,
