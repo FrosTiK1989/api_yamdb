@@ -31,10 +31,11 @@
 Страница проекта на github: <https://github.com/frostik1989/api_yamdb> Доступны следующие способы получения проекта:
 
 С помощью системы управления версиями Git:
-- HTTPS - <https://github.com/frostik1989/api_yamdb.git>
-- SSH - git@github.com:frostik1989/api_yamdb.git
-- CLI - gh repo clone frostik1989/api_yamdb
-- Скачать архивом: <https://github.com/frostik1989/api_yamdb/archive/refs/heads/master.zip>
+
+- HTTPS - <https://github.com/FrosTiK1989/api_yamdb.git>
+- SSH - git@github.com:FrosTiK1989/api_yamdb.git
+- CLI - gh repo clone FrosTiK1989/api_yamdb
+- Скачать архивом: <https://github.com/FrosTiK1989/api_yamdb/archive/refs/heads/master.zip>
 
 Убедитесь что у вас установлен python 3.9. Данный проект разработан и протестирован для данной версии python. [Как установить?](https://www.python.org/downloads/release/python-390/ "Сайт Python")
 
